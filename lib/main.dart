@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+// ラッスンゴレライ
 void main() {
   runApp(const MyApp());
 }
